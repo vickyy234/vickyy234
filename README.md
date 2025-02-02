@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning MERN Stack<br>📫 How to reach me vickymayilsamy@gmail.com</p>
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 📫 How to reach me **vickymayilsamy@gmail.com**
 
 ###
 
