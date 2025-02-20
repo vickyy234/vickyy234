@@ -30,8 +30,8 @@
   <a href="https://linkedin.com/in/vickyy234" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a>
-      <img src="https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-mobile.svg&w=32&q=75" />
+  <a href="https://www.frontendmentor.io/profile/vickyy234">
+      <img src="https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-mobile.svg&w=32&q=75" width="52" height="40"  alt="Frontend Mentor Logo"/>
   </a>
 </div>
 
