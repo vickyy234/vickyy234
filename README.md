@@ -1,16 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vignesh</h1>
-
-###
-
-<p align="center">A passionate FULL STACK developer</p>
-
-###
-
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 📫 How to reach me **vickymayilsamy@gmail.com**
-
 ###
 
 <h2 align="left">Connect with me:</h2>
@@ -68,8 +55,3 @@
   <img width="12" />
 
   ### 
-  <h2></h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vickyy234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
