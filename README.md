@@ -20,6 +20,10 @@
   <a href="https://www.frontendmentor.io/profile/vickyy234" target="_blank">
       <img src="https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-mobile.svg&w=32&q=75" width="52" height="40"  alt="Frontend Mentor Logo"/>
   </a>
+  <a href="https://www.postman.com/vickyy234/">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  </a>
 </div>
 
 ###
@@ -54,5 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 
-  ### 
+  ###
+
+<h2 align="left">Organization</h2>
+
+[![Organization](https://img.shields.io/badge/organization-ZenithTechSolutions-blue?style=for-the-badge&logo=github)](https://github.com/ZenithTechSolutions)
+
+Elevating Web Experiences,One Pixel at a Time!
+
+---
+
 ![](https://komarev.com/ghpvc/?username=vickyy234&color=gray)
