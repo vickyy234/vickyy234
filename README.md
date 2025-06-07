@@ -1,36 +1,33 @@
-###
+## Connect with me:
 
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<div align="left">
-    <a href="https://www.leetcode.com/vickyy234" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vickyy234" height="40" width="52"/>
+<div>
+    <a href="https://www.leetcode.com/vickyy234">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            height="40" width="52" alt="Leetcode logo" />
     </a>
-  <a href="https://www.hackerrank.com/vickymayilsamy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.codechef.com/users/vickyy234" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vickyy234" height="40" width="52" />
-  </a>
-  <a href="https://linkedin.com/in/vickyy234" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.frontendmentor.io/profile/vickyy234" target="_blank">
-      <img src="https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-mobile.svg&w=32&q=75" width="52" height="40"  alt="Frontend Mentor Logo"/>
-  </a>
-  <a href="https://www.postman.com/vickyy234/">
-    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  </a>
+    <a href="https://www.hackerrank.com/vickymayilsamy">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"
+            width="52" height="40" alt="HackerRank logo" />
+    </a>
+    <a href="https://www.codechef.com/users/vickyy234">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+            width="52" height="40" alt="CodeChef logo" />
+    </a>
+    <a href="https://linkedin.com/in/vickyy234">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+            width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href="https://www.frontendmentor.io/profile/vickyy234">
+        <img src="https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-mobile.svg&w=32&q=75"
+            width="52" height="40" alt="Frontend Mentor logo" />
+    </a>
+    <a href="https://www.postman.com/vickyy234/">
+        <img src="https://skillicons.dev/icons?i=postman"
+            width="52" height="40" alt="Postman logo" />
+    </a>
 </div>
 
-###
-
-<h2 align="left">Languages and Tools:</h2>
-
-###
+## Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -58,9 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 
-  ###
-
-<h2 align="left">Organization</h2>
+## Organization
 
 [![Organization](https://img.shields.io/badge/organization-ZenithTechSolutions-blue?style=for-the-badge&logo=github)](https://github.com/ZenithTechSolutions)
 
