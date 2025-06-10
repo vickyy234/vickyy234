@@ -60,7 +60,3 @@
 [![Organization](https://img.shields.io/badge/organization-ZenithTechSolutions-blue?style=for-the-badge&logo=github)](https://github.com/ZenithTechSolutions)
 
 Elevating Web Experiences,One Pixel at a Time!
-
----
-
-![](https://komarev.com/ghpvc/?username=vickyy234&color=gray)
